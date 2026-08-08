@@ -73,11 +73,12 @@ s.close()
 
 SERVER:
 
-<img width="1431" height="113" alt="image" src="https://github.com/user-attachments/assets/d6ab2750-f063-4265-8d14-fca831ec35fc" />
+<img width="536" height="152" alt="WhatsApp Image 2026-08-08 at 2 11 50 PM" src="https://github.com/user-attachments/assets/2905863f-b331-473e-841a-1c26ff162e24" />
 
 CLIENT:
 
-<img width="1429" height="144" alt="image" src="https://github.com/user-attachments/assets/fa79269b-6513-480e-82e5-abcb1714983c" />
+<img width="512" height="220" alt="WhatsApp Image 2026-08-08 at 2 11 50 PM (1)" src="https://github.com/user-attachments/assets/fef95560-10bc-4842-8ccc-896979df18ab" />
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
